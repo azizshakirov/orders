@@ -19,3 +19,5 @@ max_order = max(customers, key=lambda cus : cus.get("total"))
 
 print("\nEng katta burtmachi:")
 print(f"{max_order['name']} - {max_order['total']}")
+
+print("Salom")
