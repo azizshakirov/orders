@@ -4,6 +4,8 @@ import json
 with open("orders.json", 'r', encoding="utf-8") as file:
     orders = json.load(file)
 
+print("Start")
+
 customers = []
 for order in orders:
     name = order.get('customer_name')
