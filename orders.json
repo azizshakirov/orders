@@ -1,0 +1,85 @@
+[
+    {
+      "order_id": 1,
+      "customer_name": "Dilnoza Karimova",
+      "items": [
+        { "product": "Laptop", "price": 750, "quantity": 1 },
+        { "product": "Mouse", "price": 25, "quantity": 2 }
+      ]
+    },
+    {
+      "order_id": 2,
+      "customer_name": "Javlonbek Usmonov",
+      "items": [
+        { "product": "Smartphone", "price": 600, "quantity": 1 },
+        { "product": "Headphones", "price": 80, "quantity": 1 },
+        { "product": "Phone Case", "price": 15, "quantity": 2 }
+      ]
+    },
+    {
+      "order_id": 3,
+      "customer_name": "Madina Raximova",
+      "items": [
+        { "product": "Tablet", "price": 300, "quantity": 1 },
+        { "product": "Keyboard", "price": 40, "quantity": 1 }
+      ]
+    },
+    {
+      "order_id": 4,
+      "customer_name": "Sardorbek Tursunov",
+      "items": [
+        { "product": "Monitor", "price": 200, "quantity": 2 },
+        { "product": "HDMI Cable", "price": 10, "quantity": 3 }
+      ]
+    },
+    {
+      "order_id": 5,
+      "customer_name": "Nilufar Islomova",
+      "items": [
+        { "product": "Smartwatch", "price": 150, "quantity": 1 },
+        { "product": "Wireless Charger", "price": 30, "quantity": 1 }
+      ]
+    },
+    {
+      "order_id": 6,
+      "customer_name": "Oybek Sobirov",
+      "items": [
+        { "product": "Camera", "price": 500, "quantity": 1 },
+        { "product": "Memory Card", "price": 25, "quantity": 4 }
+      ]
+    },
+    {
+      "order_id": 7,
+      "customer_name": "Sevara Mamadaliyeva",
+      "items": [
+        { "product": "Shoes", "price": 80, "quantity": 2 },
+        { "product": "Bag", "price": 120, "quantity": 1 }
+      ]
+    },
+    {
+      "order_id": 8,
+      "customer_name": "Akmal Jo‘rayev",
+      "items": [
+        { "product": "Air Conditioner", "price": 400, "quantity": 1 },
+        { "product": "Fan", "price": 60, "quantity": 1 }
+      ]
+    },
+    {
+      "order_id": 9,
+      "customer_name": "Malika Norova",
+      "items": [
+        { "product": "Book", "price": 20, "quantity": 5 },
+        { "product": "E-Reader", "price": 120, "quantity": 1 }
+      ]
+    },
+    {
+      "order_id": 10,
+      "customer_name": "Shaxboz Rustamov",
+      "items": [
+        { "product": "Gaming Console", "price": 500, "quantity": 1 },
+        { "product": "Gamepad", "price": 60, "quantity": 2 },
+        { "product": "Video Game", "price": 70, "quantity": 3 }
+      ]
+    }
+  ]
+  
